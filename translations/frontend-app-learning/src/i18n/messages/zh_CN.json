@@ -281,7 +281,7 @@
   "progress.courseGrade.preview.button.upgrade": "马上升级",
   "progress.courseGrade.gradeRange.tooltip": "本课程的成绩范围：",
   "progress.courseOutline": "课程大纲",
-  "progress.courseGrade.label.currentGrade": "您当前的",
+  "progress.courseGrade.label.currentGrade": "您当前的成绩",
   "progress.detailedGrades": "详细等级",
   "progress.detailedGrades.emptyTable": "您目前没有已评分的问题分数。",
   "progress.footnotes.title": "评分汇总",
